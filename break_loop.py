@@ -13,6 +13,7 @@
 #         break
 #     print(n)
 
+
 """ line 17-22, 25-30, 33-38, 41-46 are different from eachother based on their while loop conditions"""
 # n=0
 # while (n<20):
